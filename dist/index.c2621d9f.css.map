@@ -1,0 +1,1 @@
+{"mappings":"AACC","sources":["src/scss/mainStyle.scss"],"sourcesContent":["* {\n\t&::before, &::after {\n    box-sizing: border-box;\n\tpadding: 0;\n\tmargin: 0;\n    }\n}\n"],"names":[],"version":3,"file":"index.c2621d9f.css.map","sourceRoot":"/__parcel_source_root/"}

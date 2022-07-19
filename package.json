@@ -1,0 +1,28 @@
+{
+  "name": "konkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konunkier/KONKIT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Konunkier/KONKIT/issues"
+  },
+  "homepage": "https://github.com/Konunkier/KONKIT#readme",
+  "dependencies": {
+    "parcel": "^2.6.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "sass": "^1.53.0"
+  }
+}
