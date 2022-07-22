@@ -11,4 +11,9 @@ h1 {
   color: red;
 }
 
+#sccont {
+  position: fixed;
+  bottom: 10px;
+}
+
 /*# sourceMappingURL=index.c2621d9f.css.map */
